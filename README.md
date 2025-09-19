@@ -88,10 +88,10 @@ Built practical projects like TicTacToe and pattern designs.
 Learned file handling and basic API interactions     
 
 ## Requirements
-Python: Version 3.8 or higher.
-Jupyter Notebook: Install via pip install jupyter or use an online platform like Google Colab.
-Libraries: Built-in Python libraries used (no external dependencies for core files).
-Setup: Clone the repo with git clone https://github.com/inderpreet0649/learning--python.git, then run jupyter notebook in your terminal.
+Python: Version 3.8 or higher.  
+Jupyter Notebook: Install via pip install jupyter or use an online platform like Google Colab.   
+Libraries: Built-in Python libraries used (no external dependencies for core files).   
+Setup: Clone the repo with git clone https://github.com/inderpreet0649/learning--python.git, then run jupyter notebook in your terminal.   
 
 ## License
 
